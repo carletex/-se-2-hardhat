@@ -1,1 +1,1 @@
-### Hardhat submodule for SE-2
+### Hardhat submodule for SE-2.
